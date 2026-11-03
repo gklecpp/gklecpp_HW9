@@ -1,0 +1,77 @@
+Original Document: 
+Character: H, Font: Arial, Size: 12, Color: Red
+Character: e, Font: Arial, Size: 12, Color: Red
+Character: l, Font: Arial, Size: 12, Color: Red
+Character: l, Font: Arial, Size: 12, Color: Red
+Character: o, Font: Arial, Size: 12, Color: Red
+Character: W, Font: Calibri, Size: 14, Color: Blue
+Character: o, Font: Calibri, Size: 14, Color: Blue
+Character: r, Font: Calibri, Size: 14, Color: Blue
+Character: l, Font: Calibri, Size: 14, Color: Blue
+Character: d, Font: Calibri, Size: 14, Color: Blue
+Character: C, Font: Verdana, Size: 16, Color: Black
+Character: S, Font: Verdana, Size: 16, Color: Black
+Character: 5, Font: Arial, Size: 14, Color: Blue
+Character: 8, Font: Arial, Size: 14, Color: Blue
+Character: 0, Font: Arial, Size: 14, Color: Blue
+Character: 0, Font: Arial, Size: 14, Color: Blue
+
+Total unique properties: 4
+
+After Editing: 
+Character: J, Font: Arial, Size: 12, Color: Red
+Character: e, Font: Arial, Size: 12, Color: Red
+Character: l, Font: Arial, Size: 12, Color: Red
+Character: l, Font: Arial, Size: 12, Color: Red
+Character: o, Font: Arial, Size: 12, Color: Red
+Character: W, Font: Calibri, Size: 14, Color: Blue
+Character: o, Font: Calibri, Size: 14, Color: Blue
+Character: r, Font: Calibri, Size: 14, Color: Blue
+Character: l, Font: Calibri, Size: 14, Color: Blue
+Character: d, Font: Calibri, Size: 14, Color: Blue
+Character: C, Font: Verdana, Size: 16, Color: Black
+Character: S, Font: Verdana, Size: 16, Color: Black
+Character: 5, Font: Arial, Size: 14, Color: Blue
+Character: 8, Font: Arial, Size: 14, Color: Blue
+Character: 0, Font: Arial, Size: 14, Color: Blue
+Character: 0, Font: Arial, Size: 14, Color: Blue
+
+After Changing Properties: 
+Character: H, Font: Calibri, Size: 14, Color: Blue
+Character: e, Font: Arial, Size: 12, Color: Red
+Character: l, Font: Arial, Size: 12, Color: Red
+Character: l, Font: Arial, Size: 12, Color: Red
+Character: o, Font: Arial, Size: 12, Color: Red
+Character: W, Font: Calibri, Size: 14, Color: Blue
+Character: o, Font: Calibri, Size: 14, Color: Blue
+Character: r, Font: Calibri, Size: 14, Color: Blue
+Character: l, Font: Calibri, Size: 14, Color: Blue
+Character: d, Font: Calibri, Size: 14, Color: Blue
+Character: C, Font: Verdana, Size: 16, Color: Black
+Character: S, Font: Verdana, Size: 16, Color: Black
+Character: 5, Font: Arial, Size: 14, Color: Blue
+Character: 8, Font: Arial, Size: 14, Color: Blue
+Character: 0, Font: Arial, Size: 14, Color: Blue
+Character: 0, Font: Arial, Size: 14, Color: Blue
+Document saved to document.txt
+Document loaded from document.txt
+
+Loaded Document: 
+Character: H, Font: Calibri, Size: 14, Color: Blue
+Character: e, Font: Arial, Size: 12, Color: Red
+Character: l, Font: Arial, Size: 12, Color: Red
+Character: l, Font: Arial, Size: 12, Color: Red
+Character: o, Font: Arial, Size: 12, Color: Red
+Character: W, Font: Calibri, Size: 14, Color: Blue
+Character: o, Font: Calibri, Size: 14, Color: Blue
+Character: r, Font: Calibri, Size: 14, Color: Blue
+Character: l, Font: Calibri, Size: 14, Color: Blue
+Character: d, Font: Calibri, Size: 14, Color: Blue
+Character: C, Font: Verdana, Size: 16, Color: Black
+Character: S, Font: Verdana, Size: 16, Color: Black
+Character: 5, Font: Arial, Size: 14, Color: Blue
+Character: 8, Font: Arial, Size: 14, Color: Blue
+Character: 0, Font: Arial, Size: 14, Color: Blue
+Character: 0, Font: Arial, Size: 14, Color: Blue
+
+Total unique properties: 4

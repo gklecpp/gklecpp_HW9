@@ -1,0 +1,45 @@
+=== Search by ID ===
+Real server: Search by ID 1
+Song ID: 1, Title: Espresso, Artist: Sabrina Carpenter, Album: Short n' Sweet, Duration: 175 seconds
+Search time: 1025.79 ms
+
+Proxy: Returning cached song by ID 1
+Song ID: 1, Title: Espresso, Artist: Sabrina Carpenter, Album: Short n' Sweet, Duration: 175 seconds
+Search time: 0.19 ms
+
+
+=== Search by Title ===
+Real server: Searching by title Sports car
+[Song ID: 4, Title: Sports car, Artist: Tate Mcrae, Album: So Close to What, Duration: 165 seconds]
+Search time: 1006.87 ms
+
+Proxy: Returning cached song by title Sports car
+[Song ID: 4, Title: Sports car, Artist: Tate Mcrae, Album: So Close to What, Duration: 165 seconds]
+Search time: 0.65 ms
+
+
+=== Search by Album ===
+Real server: Searching by album So Close to What
+[Song ID: 4, Title: Sports car, Artist: Tate Mcrae, Album: So Close to What, Duration: 165 seconds]
+Search time: 1003.25 ms
+
+Proxy: Returning cached song by album So Close to What
+[Song ID: 4, Title: Sports car, Artist: Tate Mcrae, Album: So Close to What, Duration: 165 seconds]
+Search time: 0.12 ms
+
+
+=== Additional Song Searches ===
+Real server: Searching by title Espresso
+Song ID: 1, Title: Espresso, Artist: Sabrina Carpenter, Album: Short n' Sweet, Duration: 175 seconds
+Real server: Searching by title Snooze
+Song ID: 2, Title: Snooze, Artist: SZA, Album: SOS, Duration: 201 seconds
+Real server: Searching by title CHIHIRO
+Song ID: 3, Title: CHIHIRO, Artist: Billie Eilish, Album: HIT ME HARD AND SOFT, Duration: 303 seconds
+Real server: Searching by title Good Luck, Babe!
+Song ID: 5, Title: Good Luck, Babe!, Artist: Chappell Roan, Album: Good Luck, Babe!, Duration: 218 seconds
+Real server: Searching by title Come and See Me
+Song ID: 6, Title: Come and See Me, Artist: PARTYNEXTDOOR, Album: PARTYNEXTDOOR 3, Duration: 235 seconds
+Real server: Searching by title Blinding Lights
+Song ID: 7, Title: Blinding Lights, Artist: The Weeknd, Album: After Hours, Duration: 200 seconds
+Real server: Searching by title we can't be friends (wait for your love)
+Song ID: 8, Title: we can't be friends (wait for your love), Artist: Ariana Grande, Album: eternal sunshine, Duration: 228 seconds
